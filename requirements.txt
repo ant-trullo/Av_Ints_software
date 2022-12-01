@@ -1,0 +1,9 @@
+czifile==2019.7.2
+natsort==8.1.0
+numpy==1.23.1
+PyQt5==5.15.7
+pyqtgraph==0.13.1
+scikit_image==0.19.3
+scipy==1.9.0
+tifffile==2022.10.10
+XlsxWriter==3.0.3

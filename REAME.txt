@@ -1,0 +1,26 @@
+This software is written in Python™ 3.10.
+
+- Packages needed for Av_Ints_software to work are listed in the requirements.txt file.
+
+        Of course all the dependecies of these packages listed in requirements.txt must be 
+        fulfilled: you will be required to install matplotlib, PIL and some others. Depending 
+        on the installation technique, the Python installer can take care of this directly, or 
+        you will have to do this manually. 
+
+
+Av_Ints_software was developed on the operative system Linux Ubuntu 22.04 64-bit 
+        and tested on Linux Ubuntu 20.04 64-bit, but it should work on Windows and Mac too.
+
+ 
+- Run Av_Ints_software:
+	Once all the packages are correctly installed, download all the files into a folder,
+	then open a terminal (in Linux and Mac, or a cmd in Windows), move into the folder just
+	created and run
+ 
+	'python3 Av_Ints_main.py'
+	
+	The graphical user interface will pop up and let you work.
+   
+           
+For any question or issue send an email at:
+    antonio.trullo@igmm.cnrs.fr   
